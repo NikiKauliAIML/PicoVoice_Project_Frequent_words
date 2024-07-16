@@ -39,11 +39,10 @@ possibility of raining at least n days.
 
 #### Output:
 Here, used Streamlit to display output
-Final Ouptut Screen: 
-#### 1
+#### 1: Output Page
 ![Getting Started](output/O1.png)       
 
-Enter the probability of rain in given day and number of day when rains more than n
+#### 2: Enter the probability of rain in given day and number of day when rains more than n
 ![Getting Started](output/O2.png)
 
 
@@ -54,24 +53,22 @@ preprocess the dictionary into a different data structure if needed.
 
 #### Soluation: Tree data structure.
 
-#### Output:
+### Output:
 ![Getting Started](output/P1.png)       
 
 3. Find the n most frequent words in the TensorFlow Shakespeare dataset.
 
 #### Soluation: Natrual Language Processing (NLP)
 
-#### Output:
+### Output:
 
-#### 1
+#### 1: Output Page
 ![Getting Started](output/P01.png)      
 
 
-#### 2
-#### Give input of number of word count and get the output click on submit button
+#### 2: Give input of number of word count and get the output click on submit button
 ![Getting Started](output/P02.png)    
 
-#### 3
-#### If you want to remove stopword then click on check of "Remove Stopwords in dataset"
+#### 3: If you want to remove stopword then click on check of "Remove Stopwords in dataset"
 ![Getting Started](output/P03.png)
 
